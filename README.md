@@ -1,8 +1,9 @@
-### Hi there 👋!
+# Hi there 👋!
 
-I am Elena, and I am a Full Stack Software Engineer with passion for human and computer languages.
+I am Elena - a Full Stack Software Engineer with a passion for human and computer languages.
 
-Skills: JS / REACT / REDUX / RUBY / RAILS / SINATRA / SQL / POSTGRES / SQLITE / HTML / CSS / BOOTSTRAP
+## Skills and Experience:
+JS / REACT / REDUX / RUBY / RAILS / SINATRA / SQL / POSTGRES / SQLITE / HTML / CSS / BOOTSTRAP
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elena-Weber)](https://github.com/anuraghazra/github-readme-stats)
 
