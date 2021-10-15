@@ -5,7 +5,7 @@ A former English Teacher, now a Web Developer, I love challenges and riddles and
 ## Skills and Experience:
 JS / REACT / REDUX / RUBY / RAILS / SINATRA / SQL / POSTGRES / SQLITE / HTML / CSS / BOOTSTRAP
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elena-Weber)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elena-Weber&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
