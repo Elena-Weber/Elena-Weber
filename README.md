@@ -2,6 +2,8 @@
 
 I am Elena, and I am a Full Stack Software Engineer with passion for human and computer languages.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elena-Weber)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Elena-Weber/Elena-Weber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
