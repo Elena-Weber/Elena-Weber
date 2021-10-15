@@ -1,6 +1,6 @@
 # Hi there 👋 ! I am Elena.
 
-
+A former English Teacher, now a Web Developer, I love challenges and riddles and effectively communicate with both - people and computers.
 
 ## Skills and Experience:
 JS / REACT / REDUX / RUBY / RAILS / SINATRA / SQL / POSTGRES / SQLITE / HTML / CSS / BOOTSTRAP
@@ -10,14 +10,17 @@ JS / REACT / REDUX / RUBY / RAILS / SINATRA / SQL / POSTGRES / SQLITE / HTML / C
 
 
 - 🌱 I’m currently learning UI and Typescript. 
-- ⚡ Fun fact: I'm a former English Teacher and have lived in 3 countries. 
+- ⚡ Fun fact: I'm an Instagram blogger and have lived in 3 countries. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elena-Weber)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/elenaweber/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/elenaweber.d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/elena_in_america/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://teacher-in-tech.medium.com/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-Weber)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Progects' Demo Videos:
+## Check out my JavaScript deployed project:
+[JS Universe](https://gelatinous-apricot-lillipilli.glitch.me)
+
+## My Other Projects' Demo Videos:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=X1MBd6Rv0yg
 " target="_blank"><img src="http://img.youtube.com/vi/X1MBd6Rv0yg/0.jpg" 
 alt="DreamCatcher" width="240" height="180" border="10" /></a>
