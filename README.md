@@ -23,16 +23,16 @@ JS / REACT / REDUX / RUBY / RAILS / SINATRA / SQL / POSTGRES / SQLITE / HTML / C
 ## My Other Projects' Demo Videos:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=X1MBd6Rv0yg
 " target="_blank"><img src="http://img.youtube.com/vi/X1MBd6Rv0yg/0.jpg" 
-alt="DreamCatcher" width="200" height="160" border="10" /></a>
+alt="DreamCatcher" width="180" height="140" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=WLQMcfGlIHo
 " target="_blank"><img src="http://img.youtube.com/vi/WLQMcfGlIHo/0.jpg" 
-alt="StatesTraveler" width="200" height="160" border="10" /></a>
+alt="StatesTraveler" width="180" height="140" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=3LAa_We8CC4
 " target="_blank"><img src="http://img.youtube.com/vi/3LAa_We8CC4/0.jpg" 
-alt="BucketLister" width="200" height="160" border="10" /></a>
+alt="BucketLister" width="180" height="140" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cwrpHJvBk2k
 " target="_blank"><img src="http://img.youtube.com/vi/cwrpHJvBk2k/0.jpg" 
-alt="ZOOpedia" width="200" height="160" border="10" /></a>
+alt="ZOOpedia" width="180" height="140" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tSHxcHZLaok
 " target="_blank"><img src="http://img.youtube.com/vi/tSHxcHZLaok/0.jpg" 
-alt="BucketLister" width="200" height="160" border="10" /></a>
+alt="BucketLister" width="180" height="140" border="10" /></a>
