@@ -17,7 +17,7 @@ JS / REACT / REDUX / RUBY / RAILS / SINATRA / SQL / POSTGRES / SQLITE / HTML / C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-Weber)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-Weber)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-Weber&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Check out my JavaScript deployed project:
 [JS Universe](https://gelatinous-apricot-lillipilli.glitch.me)
