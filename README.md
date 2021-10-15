@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Elena, and I am a Full Stack Software Engineer with passion for human and computer languages.
+
 <!--
 **Elena-Weber/Elena-Weber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
