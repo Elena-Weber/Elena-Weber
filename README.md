@@ -22,3 +22,18 @@ JS / REACT / REDUX / RUBY / RAILS / SINATRA / SQL / POSTGRES / SQLITE / HTML / C
 " target="_blank"><img src="http://img.youtube.com/vi/X1MBd6Rv0yg/0.jpg" 
 alt="DreamCatcher" width="240" height="180" border="10" /></a>
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WLQMcfGlIHo
+" target="_blank"><img src="http://img.youtube.com/vi/WLQMcfGlIHo/0.jpg" 
+alt="StatesTraveler" width="240" height="180" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=3LAa_We8CC4
+" target="_blank"><img src="http://img.youtube.com/vi/3LAa_We8CC4/0.jpg" 
+alt="BucketLister" width="240" height="180" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=cwrpHJvBk2k
+" target="_blank"><img src="http://img.youtube.com/vi/cwrpHJvBk2k/0.jpg" 
+alt="ZOOpedia" width="240" height="180" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tSHxcHZLaok
+" target="_blank"><img src="http://img.youtube.com/vi/tSHxcHZLaok/0.jpg" 
+alt="BucketLister" width="240" height="180" border="10" /></a>
