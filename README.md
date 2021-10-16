@@ -16,7 +16,7 @@ JS / REACT / REDUX / RUBY / RAILS / SINATRA / SQL / POSTGRES / SQLITE / HTML / C
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
-  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby on Rails-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge" />
   <img alt="SQLite" src="https://img.shields.io/badge/Sqlite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
