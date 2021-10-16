@@ -7,7 +7,7 @@ A former English Teacher, now a Web Developer, I love challenges and riddles and
 - ⚡ Fun fact: I'm an Instagram blogger and have lived in 3 countries.
 
 ## Skills and Experience:
-JS / REACT / REDUX / RUBY / RAILS / SINATRA / SQL / POSTGRES / SQLITE / HTML / CSS / BOOTSTRAP
+<!-- JS / REACT / REDUX / RUBY / RAILS / SINATRA / SQL / POSTGRES / SQLITE / HTML / CSS / BOOTSTRAP -->
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
@@ -15,6 +15,8 @@ JS / REACT / REDUX / RUBY / RAILS / SINATRA / SQL / POSTGRES / SQLITE / HTML / C
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764BC?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+ </p>
+ <p>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby on Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=for-the-badge" />
