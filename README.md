@@ -18,8 +18,8 @@ A former English Teacher, now a Web Developer, I love challenges and riddles and
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=flat" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby on Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat" />
-  <img alt="SQLite" src="https://img.shields.io/badge/Sqlite-003B57?logo=sqlite&logoColor=white&style=flat" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=flat" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
 </p>
 
 
