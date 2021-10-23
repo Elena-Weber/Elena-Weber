@@ -28,7 +28,7 @@ A former English Teacher, now a Web Developer, I love challenges and riddles and
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elena-Weber&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Check out my JavaScript deployed projects:
-[JS Universe](https://gelatinous-apricot-lillipilli.glitch.me)
+Here: [JS Universe on Glitch](https://gelatinous-apricot-lillipilli.glitch.me) or here: [JS Universe on Netlify](https://trusting-edison-b2955d.netlify.app/index.html)
 
 ## My Other Projects' Demo Videos:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=X1MBd6Rv0yg
