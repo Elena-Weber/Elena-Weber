@@ -1,10 +1,10 @@
 # Hi there 👋 ! I am Elena.
 
-A former English Teacher, now a Web Developer, I love challenges and riddles and effectively communicate with both - people and computers. Coding is life!
+A former English Teacher, now a Software Engineer, I love human and programming languages, can't live without challenges and effectively communicate with both - people and computers. I'm a lifelong learner for whom coding is life!
 
-- 🌱 I’m currently learning UI and Typescript.
-- 💬 Ask me about web development.
-- ⚡ Fun fact: I'm an Instagram blogger and have lived in 3 countries.
+- 🌱  I’m currently learning UI and Typescript.
+- 💬  Ask me about web development.
+- ⚡  Fun fact: I'm an Instagram blogger and have lived in 3 countries.
 
 ## Skills and Experience:
 <!-- JS / REACT / REDUX / RUBY / RAILS / SINATRA / SQL / POSTGRES / SQLITE / HTML / CSS / BOOTSTRAP -->
@@ -28,7 +28,7 @@ A former English Teacher, now a Web Developer, I love challenges and riddles and
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elena-Weber&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Check out my JavaScript deployed projects:
-Here: [JS Universe on Glitch](https://gelatinous-apricot-lillipilli.glitch.me) or here: [JS Universe on Netlify](https://trusting-edison-b2955d.netlify.app/index.html)
+[JS Universe](https://trusting-edison-b2955d.netlify.app/index.html)
 
 ## My Other Projects' Demo Videos:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=X1MBd6Rv0yg
