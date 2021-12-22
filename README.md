@@ -1,8 +1,8 @@
 # Hi there! 👋 I am Elena.
 
-A former English Teacher, now a Software Engineer, I study human and programming languages, love challenges and effectively communicate with both - people and computers. I'm a lifelong learner for whom coding is life!
+A former English Teacher, now a Software Engineer, I study human and programming languages, love solving problems and effectively communicate with both - people and computers. I'm a lifelong learner for whom coding is life!
 
-- 🌱  I’m currently learning UI and Typescript.
+- 🌱  I’m currently learning UI/UX.
 - 💬  Ask me about web development.
 - ⚡  Fun fact: I'm an Instagram blogger and have lived in 3 countries.
 
