@@ -47,6 +47,9 @@ alt="ZOOpedia" width="150" height="100" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tSHxcHZLaok
 " target="_blank"><img src="http://img.youtube.com/vi/tSHxcHZLaok/0.jpg" 
 alt="BucketLister" width="150" height="100" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=eDIkCQ5Cvcc
+" target="_blank"><img src="http://img.youtube.com/vi/eDIkCQ5Cvcc/0.jpg" 
+alt="Bash Scripting" width="150" height="100" border="10" /></a>
 
 ## Contact me or follow me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elena-Weber)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/elenaweber/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/elenaweber.d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/elena_in_america/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://teacher-in-tech.medium.com/)  
