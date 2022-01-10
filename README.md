@@ -29,7 +29,7 @@ A former English Teacher, now a Software Engineer, I study human and programming
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elena-Weber&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Check out my deployed projects:
-[JavaScript Universe](https://trusting-edison-b2955d.netlify.app/index.html)
+[JavaScript Universe](https://trusting-edison-b2955d.netlify.app/index.html) | 
 [HTML and CSS Land](https://brave-gates-9f5981.netlify.app/)
 
 ## My Other Projects' Demo Videos:
