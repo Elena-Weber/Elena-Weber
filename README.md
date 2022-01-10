@@ -35,19 +35,19 @@ A former English Teacher, now a Software Engineer, I study human and programming
 ## My Other Projects' Demo Videos:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=X1MBd6Rv0yg
 " target="_blank"><img src="http://img.youtube.com/vi/X1MBd6Rv0yg/0.jpg" 
-alt="DreamCatcher" width="150" height="100" border="10" /></a> | 
+alt="DreamCatcher" width="150" height="100" border="10" /></a> + 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=WLQMcfGlIHo
 " target="_blank"><img src="http://img.youtube.com/vi/WLQMcfGlIHo/0.jpg" 
-alt="StatesTraveler" width="150" height="100" border="10" /></a> | 
+alt="StatesTraveler" width="150" height="100" border="10" /></a> + 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=3LAa_We8CC4
 " target="_blank"><img src="http://img.youtube.com/vi/3LAa_We8CC4/0.jpg" 
-alt="BucketLister" width="150" height="100" border="10" /></a> | 
+alt="BucketLister" width="150" height="100" border="10" /></a> + 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cwrpHJvBk2k
 " target="_blank"><img src="http://img.youtube.com/vi/cwrpHJvBk2k/0.jpg" 
-alt="ZOOpedia" width="150" height="100" border="10" /></a> | 
+alt="ZOOpedia" width="150" height="100" border="10" /></a> + 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tSHxcHZLaok
 " target="_blank"><img src="http://img.youtube.com/vi/tSHxcHZLaok/0.jpg" 
-alt="BucketLister" width="150" height="100" border="10" /></a> |
+alt="BucketLister" width="150" height="100" border="10" /></a> +
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=eDIkCQ5Cvcc
 " target="_blank"><img src="http://img.youtube.com/vi/eDIkCQ5Cvcc/0.jpg" 
 alt="Bash Scripting" width="150" height="100" border="10" /></a>
