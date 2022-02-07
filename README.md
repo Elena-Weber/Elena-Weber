@@ -22,7 +22,7 @@ A former English Teacher, now a Software Engineer, I study human and programming
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass3&logoColor=white&style=flat" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
-  <img alt="Bash Scripting" src="https://img.shields.io/badge/Bash Scripting-4EAA25?logo=gnubash&logoColor=white&style=flat" />
+  <img alt="Bash Scripting" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat" />
 </p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-Weber&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
