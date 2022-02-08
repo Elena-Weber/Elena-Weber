@@ -7,7 +7,7 @@ A former English Teacher, now a Software Engineer, I study human and programming
 - ⚡  Fun fact: I'm an Instagram blogger and have lived in 3 countries.
 
 ## Skills and Experience:
-<!-- JS / REACT / REDUX / RUBY / RAILS / SINATRA / SQL / POSTGRES / SQLITE / HTML / CSS / BOOTSTRAP -->
+<!-- https://simpleicons.org -->
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
@@ -15,6 +15,8 @@ A former English Teacher, now a Software Engineer, I study human and programming
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764BC?logo=redux&logoColor=white&style=flat" />
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=flat" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby on Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat" />
+  <img alt="Sinatra" src="https://img.shields.io/badge/Sinatra-000000?logo=rubysinatra&logoColor=white&style=flat" />
+  <img alt="Sinatra" src="https://img.shields.io/badge/Sinatra-000000?logo=sinatra&logoColor=white&style=flat" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
