@@ -17,7 +17,6 @@ A former English Teacher, now a Software Engineer, I study human and programming
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=flat" />
   <img alt="Rails" src="https://img.shields.io/badge/Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat" />
   <img alt="Sinatra" src="https://img.shields.io/badge/Sinatra-000000?logo=rubysinatra&logoColor=white&style=flat" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4169E1?logo=sql&logoColor=white&style=flat" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
@@ -34,7 +33,7 @@ A former English Teacher, now a Software Engineer, I study human and programming
 
 ## Check out my deployed projects:
 [JavaScript Universe](https://trusting-edison-b2955d.netlify.app/index.html) | 
-[HTML and CSS Land](https://brave-gates-9f5981.netlify.app/)
+[HTML & CSS Land](https://brave-gates-9f5981.netlify.app/)
 
 ## My Other Projects' Demo Videos:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=X1MBd6Rv0yg
