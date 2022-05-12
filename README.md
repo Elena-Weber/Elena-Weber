@@ -1,10 +1,10 @@
 # Hi there! 👋 I am Elena.
 
-A former English Teacher, now a Software Engineer, I study human and programming languages, love solving problems and effectively communicate with both - people and computers. I'm a lifelong learner for whom coding is life!
+A former English Teacher, now a Software Engineer, I enjoy studying human and programming languages, love solving problems and effectively communicate with both - people and computers. I'm a lifelong learner for whom coding is life!
 
-- 🌱  I’m currently learning Advanced Sass.
+- 🌱  I’m currently learning AWS and UX/UI.
 - 💬  Ask me about web development.
-- ⚡  Fun fact: I'm an Instagram blogger and have lived in 3 countries.
+- ⚡  Fun fact: I'm an Instagram blogger and have lived in 4 countries.
 
 ## Skills and Experience:
 <!-- https://simpleicons.org -->
@@ -15,7 +15,7 @@ A former English Teacher, now a Software Engineer, I study human and programming
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764BC?logo=redux&logoColor=white&style=flat" />
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=flat" />
-  <img alt="Rails" src="https://img.shields.io/badge/Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat" />
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby on Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=flat" />
   <img alt="Sinatra" src="https://img.shields.io/badge/Sinatra-000000?logo=rubysinatra&logoColor=white&style=flat" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat" />
