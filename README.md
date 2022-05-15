@@ -3,7 +3,7 @@
 A former English Teacher, now a Software Engineer, I enjoy studying human and programming languages, love solving problems and effectively communicate with both - people and computers. I'm a lifelong learner for whom coding is life!
 
 - 🌱  I’m currently learning AWS and UX/UI.
-- 💬  Ask me about web development.
+- 💬  Ask me anything about web development.
 - ⚡  Fun fact: I'm an Instagram blogger and have lived in 4 countries.
 
 ## Skills and Experience:
