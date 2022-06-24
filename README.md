@@ -6,7 +6,7 @@ A former English Teacher, now a Software Engineer, I enjoy studying human and pr
 - 💬  Ask me anything about web development.
 - ⚡  Fun fact: I'm an Instagram blogger and have lived in 4 countries.
 
-## Skills and Experience:
+## Skills and Technologies:
 <!-- https://simpleicons.org -->
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
