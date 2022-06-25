@@ -19,6 +19,7 @@ A former English Teacher, now a Software Engineer, I enjoy studying human and pr
   <img alt="Sinatra" src="https://img.shields.io/badge/Sinatra-000000?logo=rubysinatra&logoColor=white&style=flat" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=sqlite&logoColor=white&style=flat" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat" />
