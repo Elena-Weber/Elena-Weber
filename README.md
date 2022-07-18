@@ -2,7 +2,7 @@
 
 A former English Teacher, now a Software Engineer, I enjoy studying human and programming languages, love solving problems and effectively communicate with both - people and computers. I'm a lifelong learner and an inquisitive programmer!
 
-- 🌱  I’m currently learning AWS and UX/UI and revising Rails and React.
+- 🌱  I’m currently learning React Native and revising Rails and React.
 - 💬  Ask me anything about web development.
 - ⚡  Fun fact: I'm an Instagram blogger and have lived in 4 countries.
 
