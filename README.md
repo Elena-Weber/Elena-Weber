@@ -36,7 +36,7 @@ A former English Teacher, now a Software Engineer, I enjoy studying human and pr
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elena-Weber&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## Check out my deployed projects:
+## Check out my deployed front-end projects:
 [JavaScript Universe](https://javascript-universe.netlify.app/) | 
 [HTML & CSS Land](https://html-css-land.netlify.app/)
 
