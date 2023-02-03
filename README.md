@@ -38,7 +38,7 @@ A former English Teacher, now a Software Engineer, I enjoy studying human and pr
 
 ## Check out my deployed front-end projects:
 [JavaScript Universe](https://javascript-universe.netlify.app/) | 
-[HTML & CSS Land](https://html-css-land.netlify.app/) | <a href="https://javascript-universe.netlify.app/" target="_blank">example</a>
+[HTML & CSS Land](https://html-css-land.netlify.app/)
 
 ## My Other Projects' Demo Videos:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=X1MBd6Rv0yg
