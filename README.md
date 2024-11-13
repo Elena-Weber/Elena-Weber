@@ -1,10 +1,10 @@
 # Hi there! 👋 I am Elena.
 
-A former English Teacher, now a Software Engineer, I enjoy studying human and programming languages, love solving problems and effectively communicate with both - people and computers. I'm a lifelong learner and an inquisitive programmer!
+Results-driven Software Engineer with over 3 years of experience, bringing a unique background in linguistics and education, I thrive on problem-solving and excel at communication — whether with people or computers. Mentor for aspiring and junior developers, I also coach them on job hunt strategies. A lifelong learner and curious programmer, I am driven to continuously expand my skills and deepen my understanding of technology.
 
-- 🌱  I’m currently learning Python, React Native and TypeScript.
+- 🗺️  When I'm not coding, you can find me traveling or blogging.
 - 💬  Ask me anything about full stack web development.
-- ⚡  Fun fact: I'm an Instagram blogger and have lived in 4 countries.
+- ⚡  Fun fact: I teach "IT Basics" to computer newbies and have lived in 4 countries.
 
 ## Skills and Technologies:
 <!-- https://github.com/Ileriayo/markdown-badges -->
