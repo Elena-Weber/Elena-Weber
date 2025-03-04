@@ -2,7 +2,7 @@
 
 Results-driven Software Engineer with over 3 years of experience, bringing a unique background in linguistics and education, I thrive on problem-solving and excel at communication — whether with people or computers. Mentor for aspiring and junior developers, I also coach them on job hunt strategies. A lifelong learner and curious programmer, I am driven to continuously expand my skills and deepen my understanding of technology.
 
-- 🗺️  When I'm not coding, you can find me traveling or blogging.
+- 🗺️  When I'm not coding, you can find me traveling, painting, teaching English or blogging.
 - 💬  Ask me anything about full stack web development.
 - ⚡  Fun fact: I teach "IT Basics" to computer newbies and have lived in 4 countries.
 
@@ -41,7 +41,7 @@ Results-driven Software Engineer with over 3 years of experience, bringing a uni
 [HTML & CSS Land](https://html-css-land.netlify.app/) |
 [ChatGPT AI Joke Generator](https://chat-gpt-practice.vercel.app/)
 
-## My Other Projects' Demo Videos:
+## My Other Projects' Demo Videos (from my time at the coding bootcamp):
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=X1MBd6Rv0yg
 " target="_blank"><img src="http://img.youtube.com/vi/X1MBd6Rv0yg/0.jpg" 
 alt="DreamCatcher" width="150" height="100" border="10" /></a> + 
