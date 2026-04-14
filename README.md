@@ -1,6 +1,6 @@
 # Hi there! 👋 I am Elena.
 
-Results-driven Software Engineer with over 3 years of experience, bringing a unique background in linguistics and education, I thrive on problem-solving and excel at communication — whether with people or computers. Mentor for aspiring and junior developers, I also coach them on job hunt strategies. A lifelong learner and curious programmer, I am driven to continuously expand my skills and deepen my understanding of technology.
+Results-driven Software Engineer with over 4+ years of experience, bringing a unique background in linguistics and education, I thrive on problem-solving and excel at communication — whether with people or computers. Having a teaching background, I excel as a team lead and have excellent soft skills. Mentor for aspiring and junior developers, I also coach them on job hunt strategies. A lifelong learner and curious programmer, I am driven to continuously expand my skills and deepen my understanding of technology.
 
 - 🗺️  When I'm not coding, you can find me traveling, painting, teaching English or blogging.
 - 💬  Ask me anything about full stack web development.
